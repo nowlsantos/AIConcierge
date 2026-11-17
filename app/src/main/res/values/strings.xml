@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AIConcierge</string>
+    <string name="link_established">Link Established</string>
+    <string name="listening">Listening</string>
+    <string name="connecting_aris">Initializing Aris...</string>
+    <string name="ready">Ready</string>
+    <string name="retry_in_5s">Retry in 5s</string>
+    <string name="searching_brain">Searching for Brain...</string>
+    <string name="place_order">PLACE ORDER</string>
+    <string name="play_now">PLAY NOW</string>
+    <string name="apply_settings">APPLY SETTINGS</string>
+    <string name="proceed">PROCEED</string>
+    <string name="thinking">Thinking...</string>
+    <string name="aris_speaking">Aris Speaking</string>
+    <string name="complete_selection">PLEASE COMPLETE SELECTION</string>
+    <string name="required_field">* REQUIRED</string>
+</resources>

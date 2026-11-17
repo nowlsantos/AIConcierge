@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733258829307",
+    "project_id": "aiconcierge-geminilive",
+    "storage_bucket": "aiconcierge-geminilive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733258829307:android:9109321758a8b058c6cf5e",
+        "android_client_info": {
+          "package_name": "com.nowlsantos.aiconcierge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ywyh-0sYO6zDS0-iA7_2wBTZqj60Qus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

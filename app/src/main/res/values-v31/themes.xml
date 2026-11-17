@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AIConcierge" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#111418</item>
+        <item name="android:statusBarColor">#111418</item>
+        <item name="android:navigationBarColor">#111418</item>
+
+        <!-- Android 12+ (API 31+) Native Splash Screen API Attributes (Luxury Gold Peninsula Monogram) -->
+        <item name="android:windowSplashScreenBackground">#111418</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#111418</item>
+    </style>
+</resources>
